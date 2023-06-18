@@ -6,8 +6,8 @@ Este proyecto tiene como objetivo diseñar y desarrollar un entorno de aprendiza
 
 El entorno se desplegará en Docker para facilitar su uso y configuración. Los usuarios podrán aprender y experimentar con diferentes técnicas y herramientas de seguridad web para identificar y solucionar vulnerabilidades en aplicaciones y sistemas web.
 
-![Entorno OpenHE: creación propia](../imagenes/Entorno.png)
+![Entorno OpenHE: creación propia](/imagenes/Entorno.png)
 
 Para obtener más información sobre este repositorio visita la página oficial de documentación siguiente:
 
-`<link>` : <https://ktlampom.gitbook.io/open-he/escenario>
+`<Link Documentación>` : <https://ktlampom.gitbook.io/open-he>
